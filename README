@@ -1,0 +1,97 @@
+#  Mundo Mascota Web
+
+##  Descripción
+
+Mundo Mascota es una aplicación web diseñada para facilitar la compra de productos para mascotas y el agendamiento de citas veterinarias de manera rápida y sencilla.
+
+El sistema está enfocado en usuarios que buscan centralizar en un solo lugar servicios como alimentación, accesorios y atención médica para sus mascotas.
+
+---
+
+##  Funcionalidades principales
+
+- Visualización de productos para mascotas  
+- Compra de productos *(simulada en este avance)*  
+- Agendamiento de citas veterinarias  
+- Confirmación de citas  
+- Diseño responsive *(adaptado a móviles y escritorio)*  
+
+---
+
+##  Stack tecnológico
+
+### **Frontend**
+- HTML5 (semántico)  
+- CSS3 (Flexbox y Grid)  
+- JavaScript (básico)  
+
+### **Backend (planeado)**
+- Node.js + Express  
+
+### **Base de datos (planeada)**
+- MySQL  
+
+### **Hosting**
+- GitHub Pages *(opcional)*  
+
+---
+
+##  Arquitectura
+
+- **Estilo:** Cliente - Servidor  
+- **Patrón:** MVC (Modelo - Vista - Controlador)  
+
+---
+
+##  Estructura del proyecto
+
+```bash
+mundo-mascota-web/
+│
+├── models/
+├── views/
+├── controllers/
+├── public/
+└── index.html
+ Vistas implementadas
+ Página principal (Home)
+ Listado de productos
+ Formulario de citas
+ Confirmación de cita
+ Mapeo de rutas
+Vista	Ruta	Método	Endpoint	Descripción
+Productos	/productos	GET	/api/productos	Obtener productos
+Crear cita	/citas	POST	/api/citas	Registrar cita
+Detalle producto	/productos/:id	GET	/api/productos/:id	Obtener producto
+Entidades principales
+Producto
+nombre (string, obligatorio)
+precio (number, > 0)
+descripción (string, opcional)
+Cita
+nombre (string, obligatorio)
+mascota (string, obligatorio)
+fecha (date, obligatorio)
+servicio (string, obligatorio)
+ Cómo ejecutar el proyecto
+Clonar el repositorio:
+git clone https://github.com/tu-usuario/mundo-mascota-web.git
+Abrir el archivo:
+index.html
+Ejecutar en el navegador
+Estado del proyecto
+
+En desarrollo (Primer avance - frontend sin backend)
+
+ Autores
+Danilo Ramirez
+Julian Ramirez
+Luis David Correa
+Carlos andres arroyave
+
+ IF2003 - Programación Web
+ Institución Universitaria de Envigado
+
+ Notas
+
+Este proyecto corresponde al primer avance del curso, enfocado en diseño de interfaz y definición de arquitectura. El backend será implementado en fases posteriores.

@@ -73,5 +73,9 @@ function vaciarCarrito() {
   localStorage.removeItem("carrito");
   renderCarrito();
   actualizarContador();
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> a12065657fa94c853e147e9a18bc376c0486b549
