@@ -1,6 +1,5 @@
 # 🐶 Mundo Mascota Web
 
-<<<<<<< HEAD
 Aplicación web moderna para la compra de productos para mascotas y el agendamiento de citas veterinarias.
 =======
 Una aplicación web moderna para la compra de productos para mascotas y agendamiento de citas veterinarias.
