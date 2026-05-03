@@ -4,7 +4,7 @@
 Aplicación web moderna para la compra de productos para mascotas y el agendamiento de citas veterinarias.
 =======
 Una aplicación web moderna para la compra de productos para mascotas y agendamiento de citas veterinarias.
->>>>>>> a12065657fa94c853e147e9a18bc376c0486b549
+
 
 ---
 
