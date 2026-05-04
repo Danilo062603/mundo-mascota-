@@ -348,3 +348,39 @@ footer{
     grid-template-columns:1fr;
   }
 }
+/* BLOG */
+.blog-container{
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.blog-title{
+  text-align: center;
+  margin: 40px 0 20px;
+  font-size: 2.5rem;
+  color: #2ecc71;
+}
+
+.post{
+  background: white;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 16px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.post:hover{
+  transform: translateY(-5px);
+}
+
+.post h2{
+  color: #2ecc71;
+  margin-bottom: 10px;
+}
+
+.post p{
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
