@@ -7,7 +7,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## 📖 Tabla de contenidos
+##  Tabla de contenidos
 
 <<<<<<< HEAD
 * [Descripción](#descripción)
@@ -35,7 +35,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 <<<<<<< HEAD
 **Mundo Mascota** es una plataforma que centraliza servicios para el cuidado de mascotas en un solo lugar:
@@ -47,7 +47,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 | Función                           | Estado |
 | --------------------------------- | ------ |
@@ -68,7 +68,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## ⚙️ Funcionalidades Principales
+##  Funcionalidades Principales
 
 | Funcionalidad | Descripción | Estado |
 |---|---|---|
@@ -81,7 +81,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <<<<<<< HEAD
 ### Frontend
@@ -117,7 +117,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## 🧠 Arquitectura
+##  Arquitectura
 
 <<<<<<< HEAD
 * **Patrón:** MVC (Modelo - Vista - Controlador)
@@ -131,7 +131,7 @@ Una aplicación web moderna para la compra de productos para mascotas y agendami
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 <<<<<<< HEAD
@@ -183,7 +183,7 @@ mundo-mascota-web/
 ---
 
 <<<<<<< HEAD
-## 🔗 Rutas y Endpoints
+##  Rutas y Endpoints
 
 | Método | Endpoint           | Descripción       |
 | ------ | ------------------ | ----------------- |
@@ -196,7 +196,7 @@ mundo-mascota-web/
 
 ---
 
-## 🧾 Entidades
+##  Entidades
 
 ### Producto
 
@@ -275,7 +275,7 @@ mundo-mascota-web/
 
 ---
 
-## ▶️ Cómo Ejecutar
+##  Cómo Ejecutar
 
 <<<<<<< HEAD
 ### 1. Clonar repositorio
@@ -323,7 +323,7 @@ npx http-server
 
 ---
 
-## 📊 Estado del Proyecto
+##  Estado del Proyecto
 
 ```
 <<<<<<< HEAD
@@ -349,7 +349,7 @@ npx http-server
 
 ---
 
-## 👨‍💻 Autores
+##  Autores
 
 <<<<<<< HEAD
 * Danilo Ramírez
@@ -380,7 +380,7 @@ npx http-server
 
 ---
 
-## 📝 Notas
+##  Notas
 
 <<<<<<< HEAD
 Proyecto académico enfocado en:
@@ -396,7 +396,7 @@ El sistema seguirá evolucionando con autenticación y base de datos completa.
 > - Prototipado
 > - Definición de arquitectura
 > 
-> El **backend será implementado** en fases posteriores.
+
 
 ---
 
